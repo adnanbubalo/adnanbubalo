@@ -8,12 +8,20 @@
 <table>
   <tr>
     <td align="center" width="96">
+        <img src="./img/python.png" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
         <img src="./img/c++.png" width="48" height="48" alt="C++" />
       <br>C++
     </td>
     <td align="center" width="96">
         <img src="./img/csharp.png" width="48" height="48" alt="C#" />
       <br>C#
+    </td>
+    <td align="center" width="96">
+        <img src="./img/NET_Core_Logo.png" width="48" height="48" alt=".NET Core" />
+      <br>ASP .NET Core
     </td>
     <td align="center" width="96">
         <img src="./img/js.png" width="48" height="48" alt="JS" />
@@ -38,10 +46,6 @@
     <td align="center" width="96">
         <img src="./img/git.png" width="48" height="48" alt="GIT" />
       <br>GIT
-    </td>
-    <td align="center" width="96">
-        <img src="./img/NET_Core_Logo.png" width="48" height="48" alt=".NET Core" />
-      <br>ASP .NET Core
     </td>
     <td align="center" width="96">
         <img src="./img/cucumber.png" width="48" height="48" alt="Cucumber" />
