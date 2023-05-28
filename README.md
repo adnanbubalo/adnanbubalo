@@ -4,6 +4,7 @@
 - 📫 How to reach me: bubalo.adnan@gmail.com
 - 🔭 LinkedIn: www.linkedin.com/in/adnan-bubalo-a1b455217
 
+# Technologies I have experience in
 <table>
   <tr>
     <td align="center" width="96">
@@ -41,6 +42,10 @@
     <td align="center" width="96">
         <img src="./img/NET_Core_Logo.png" width="48" height="48" alt=".NET Core" />
       <br>ASP .NET Core
+    </td>
+    <td align="center" width="96">
+        <img src="./img/cucumber.png" width="48" height="48" alt="Cucumber" />
+      <br>Cucumber
     </td>
   </tr>
 </table>
